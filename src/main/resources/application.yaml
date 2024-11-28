@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: tratamento-erros
+
+
+
+server:
+  port: 8090
